@@ -1,6 +1,5 @@
 usage() {
     echo -e "\033[1;34mCertSub v1.0 - written by the whalebone\033[0m"
-    echo -e "\033[1;34mTwitter: @whalebone71\033[0m\n"
     echo -e "Usage: $0 [-u <domain>] [-f <file>]\n"
     echo "Options:"
     echo "  -u <domain>     Search for subdomains of a single domain."
