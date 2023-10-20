@@ -2,9 +2,6 @@
 CertSub is a command-line tool written in Bash that allows you to quickly and easily extract subdomains associated with a domain name. By providing a single domain or a list of domains in a file, CertSub makes use of the crt.sh website to perform a search and returns a list of unique subdomains sorted in alphabetical order.
 
 # Usage
-<img width="728" alt="Screen Shot 2023-04-05 at 20 38 33" src="https://user-images.githubusercontent.com/125891350/230206255-d530588e-7723-4957-b0fa-455915ea837b.png">
-
-
 
 To use CertSub, simply download the certsub.sh file and make it executable:
 
