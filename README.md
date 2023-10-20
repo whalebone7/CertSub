@@ -38,10 +38,6 @@ Run the following command:
 ![carbon](https://user-images.githubusercontent.com/125891350/230206788-52445cb6-f739-468d-9af5-421bbfc1ad59.png)
 
 
-# Credits 
-
-CertSub is written by the whalebone. Twitter: @whalebone71. The tool makes use of the crt.sh website to extract subdomains.
-
 
 
 
